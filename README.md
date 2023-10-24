@@ -15,10 +15,7 @@
 * [Certificate](#cf)
 
 ## What is this Repo About<a name="what"></a>  
-This repository contains one Jupyter notebook that has all the code for data cleansing, EDA and machine learning, powerpoint presentation of executive summary and a python script that contains code for the deployment of the model
-
-The final app is publicly deployed on Streamlit Cloud 👉🏽 [click here](https://warehouse-stock-level-prediction-app-exhz93bydwp2mrpp8imuae.streamlit.app/)
-
+This repository contains one Jupyter notebook that has all the code for data cleansing, EDA and machine learning. 
 
 ## How to Run this Code<a name="ip"></a>
 <p style='text-align:justify;'>To run the jupyter notebook on your localhost, I recommend you install the packages I used for this project.</p>
