@@ -79,7 +79,7 @@ At the end of this project, I was able to draw the following unique insights:
 It appears that employees are leaving the company as a result of poor management. Leaving is tied to longer working hours, many projects, and generally lower satisfaction levels. It can be ungratifying to work long hours and not receive promotions or good evaluation scores. There's a sizeable group of employees at this company who are probably burned out. It also appears that if an employee has spent more than six years at the company, they tend not to leave.
 </details>
 
-## RecommendaTion <a name="rec"></a>
+## Recommendation <a name="rec"></a>
 <details>
 * Cap the number of projects that employees can work on.
 * Consider promoting employees who have been with the company for atleast four years, or conduct further investigation about why four-year tenured employees are so dissatisfied.
