@@ -66,7 +66,7 @@ Because it is time-consuming and expensive to find, interview, and hire new empl
 
 	
 <p style='text-align:justify;'>The data consisted of approximately 15k rows and 10 features. The features included information on satisfaction level, last evaluation , number of project,
-       average monthly hours , tenure, work accident, 'left', promotion for last 5years, department, salaryt.</p>
+       average monthly hours , tenure, work accident, left, promotion for last 5years, department, and salary.</p>
 
 </details>
 
@@ -79,14 +79,14 @@ At the end of this project, I was able to draw the following unique insights:
 It appears that employees are leaving the company as a result of poor management. Leaving is tied to longer working hours, many projects, and generally lower satisfaction levels. It can be ungratifying to work long hours and not receive promotions or good evaluation scores. There's a sizeable group of employees at this company who are probably burned out. It also appears that if an employee has spent more than six years at the company, they tend not to leave.
 </details>
 
-## RecommendaTION <a name="rec"></a>
+## RecommendaTion <a name="rec"></a>
 <details>
-- Cap the number of projects that employees can work on.
-- Consider promoting employees who have been with the company for atleast four years, or conduct further investigation about why four-year tenured employees are so dissatisfied.
-- Either reward employees for working longer hours, or don't require them to do so.
-- If employees aren't familiar with the company's overtime pay policies, inform them about this. If the expectations around workload and time off aren't explicit, make them clear.
-- Hold company-wide and within-team discussions to understand and address the company work culture, across the board and in specific contexts.
-- High evaluation scores should not be reserved for employees who work 200+ hours per month. Consider a proportionate scale for rewarding employees who contribute more/put in more effort.
+* Cap the number of projects that employees can work on.
+* Consider promoting employees who have been with the company for atleast four years, or conduct further investigation about why four-year tenured employees are so dissatisfied.
+* Either reward employees for working longer hours, or don't require them to do so.
+* If employees aren't familiar with the company's overtime pay policies, inform them about this. If the expectations around workload and time off aren't explicit, make them clear.
+* Hold company-wide and within-team discussions to understand and address the company work culture, across the board and in specific contexts.
+* High evaluation scores should not be reserved for employees who work 200+ hours per month. Consider a proportionate scale for rewarding employees who contribute more/put in more effort.
 </details>
 <br>
 
