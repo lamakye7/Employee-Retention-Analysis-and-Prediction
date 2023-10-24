@@ -1,11 +1,5 @@
 # Employee-Retention-Analysis-and-Prediction
 
-
-
-<p> <b>Cognizant</b> operationalizes AI to reliably deliver efficiency, innovation and agility. The virtual internship seeks to equip young professionals Artificial Intelligence(AI) skills.
-	
-More details about the program can be assessed [here](https://www.theforage.com/virtual-experience/5N2ygyhzMWjKQmgCK/cognizant/cognizant-artificial-intelligence-virtual-experience-program/model-building-and-interpretation)</p> 
-- The program consists of 5 tasks
   
 
 <br>
@@ -19,7 +13,7 @@ More details about the program can be assessed [here](https://www.theforage.com/
 * [Certificate](#cf)
 
 ## What is this Repo About<a name="what"></a>  
-This repository contains one Jupyter notebook that has all the code for data cleansing, EDA and machine learning, and a python script that contains code for the deployment of the model
+This repository contains one Jupyter notebook that has all the code for data cleansing, EDA and machine learning, powerpoint presentation of executive summary and a python script that contains code for the deployment of the model
 
 The final app is publicly deployed on Streamlit Cloud 👉🏽 [click here](https://warehouse-stock-level-prediction-app-exhz93bydwp2mrpp8imuae.streamlit.app/)
 
