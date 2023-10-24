@@ -53,7 +53,11 @@ The final app is publicly deployed on Streamlit Cloud 👉🏽 [click here](http
 <details>
 	<summary>Problem Statement</summary>
 	<br>
-	<p style='text-align:justify;'>Gala Groceries is a technology-led grocery store chain based in the USA. Gala Groceries approched Cognizant to help them solve supply chain issue. Groceries are highly perishable items, if you overstock, you are wasting money on excessive storage and waste, but if you understock, then you are losing customers. Gala Groceries want to understand sale pattern and finally able to predict the stock levels of products, on an hourly basis in order to more intelligently procure products from their suppliers.</p>
+	<p style='text-align:justify;'>The HR department at Salifort Motors wants to take some initiatives to improve employee satisfaction levels at the company. They collected data from employees, but now they don’t know what to do with it. They refer to you as a data analytics professional and ask you to provide data-driven suggestions based on your understanding of the data. They have the following question: what’s likely to make the employee leave the company?
+
+Your goals in this project are to analyze the data collected by the HR department and to build a model that predicts whether or not an employee will leave the company.
+
+If you can predict employees likely to quit, it might be possible to identify factors that contribute to their leaving. Because it is time-consuming and expensive to find, interview, and hire new employees, increasing employee retention will be beneficial to the company.</p>
 
 </details>
 
@@ -61,25 +65,13 @@ The final app is publicly deployed on Streamlit Cloud 👉🏽 [click here](http
 	<summary>Project Goals</summary>
 	<br>
 	<ol>
-		<li>Draw unique insights from sale pattern, through Exploration Data Analysis .</li>
-		<li>Build a predictive model to predict the hourly stock level.</li>
+		<li>Draw unique insights from what’s likely to make the employee leave the company .</li>
+		<li>Build a predictive model to predict whether or not an employee will leave the company using machine learning model.</li>
 	</ol>
 </details>
 
 
-## Methodology<a name="md"></a>
 
-<details>
-	<summary>Data Cleaning and Preprocessing</summary>
-	<br>
-	<p style='text-align:justify;'>. Some of the task I performed in this step include;</p>
-	<ul>
-		<li>Merging datasets</li>
-		<li>Dropping unneeded columns</li>
-		<li>Proper date formatting</li>
-		<li>Removing outliiers</li>
-	</ul>
-</details>
 
 <details>
 <summary>Exploratory Data Analysis</summary>
