@@ -144,4 +144,4 @@ In conclusion, I have been able to achieved the 2 main goals and have also teste
 <br>
 
 ## Certificate<a name="cf"></a> 
-[Earned Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/5N2ygyhzMWjKQmgCK_Cognizant_yGigRCTSMZXe4hwJC_1694084970565_completion_certificate.pdf)
+[Earned Certificate](https://coursera.org/share/7150d3c917ee5785eeb0a14c5c7d9af2)
